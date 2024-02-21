@@ -21,3 +21,5 @@ flutter:
         pluginClass: FlutterBluePlusPlugin
       macos:
         pluginClass: FlutterBluePlusPlugin
+flutter_blue_plus:
+    path: /user/downloads/flutter_blue_plus
